@@ -3,7 +3,7 @@ var http = require('http').Server(app);
 var io = require('socket.io')(http);
 var fs = require('fs'); 
 var sqlite3 = require('sqlite3').verbose();
-var loginMsg = 'this website uses cookies <br><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/FxAEXO1lxpA" frameborder="0" allowfullscreen></iframe>'
+var loginMsg = 'welcome'
 
 ///////////////////////////////////
 //int database 
@@ -25,7 +25,7 @@ app.get('/assets/*', function(req, res){
 });
 
 app.get('/', function(req, res){
-	res.sendfile('/assets/html/index.html');
+	res.sendfile(__dirname+'/assets/html/index.html');
 });
 
 ///////////////////////////////////
