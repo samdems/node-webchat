@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-webchat",
+  "version": "0.0.1",
+  "description": "nodejs-web chat with multimedia",
+  "dependencies": {
+    "express": "^4.8.3",
+    "http": "0.0.0",
+    "socket.io": "^1.0.6",
+    "sqlite3": "^2.2.7"
+  }
+}

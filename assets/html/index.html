@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Socket.IO chat</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  
+  <body>
+    <div id="messages" class="container chat"></div>
+    <div  class="chatbox">
+      <textarea name="msg" id="msg" autocomplete="off"></textarea>
+      <button onclick="sub();" >send</button><input id="n" autocomplete="on" />
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+    <script src="assets/ckeditor/ckeditor.js"></script>
+    <script src="assets/js/client.js"></script>
+  </body>
+</html>
+

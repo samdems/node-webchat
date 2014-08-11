@@ -1,0 +1,57 @@
+body
+{ 
+	margin:0px;
+	padding: 0px;
+}
+.chatbox 
+{ 
+	margin:0px;
+	padding-right: 100px; 
+	padding-left: 100px;  
+	position:fixed; 
+	height: 50% :;
+	width:100% ;
+	background-color: #ffffff;
+	bottom: 0;
+}
+#m
+{
+	margin: 0 auto;
+}
+#messages .row 
+{
+	margin-top:20px
+} 
+#messages .alert
+{
+	margin-top:25px
+} 
+#messages
+{
+	height:50%;
+	overflow-y:auto;
+	margin-bottom:120px; 
+}
+.col-centered
+{
+	float: none;
+	margin: 0 auto;
+}
+.row
+{
+	margin:0px;
+	max-height:400px;
+	overflow-y:auto;
+}
+img
+{
+	max-width:300px;
+}
+form
+{
+	margin: 0 auto;
+}
+ul
+{
+	margin-bottom:300px
+}
