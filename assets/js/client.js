@@ -3,6 +3,12 @@ var editer = CKEDITOR.replace('msg');
 var user = ""
 var socket = io();
 
+
+$( document ).ready(function() {
+  $('body').append( "<div class='Popup well'><form>username: <input type='text' id='username' name='username'><br>password :  <input type='password' id='password' name='password'></form><button onclick='login();'>login</button></div><div id='winlock'></div>")
+});
+
+
 socket.on('chat message', function(msg){
   msg = msg.split(",");
   avatar = get_gravatar(msg[0],100);
@@ -24,8 +30,13 @@ function sub(){
   user = $('#n').val();
   socket.emit('chat message', $('#n').val()+","+ cleanSnapshot(editer) +","+$('#c').val());
   $('#msg').val('');
-  return false;
 };
+
+function login(){
+  console.log("test");
+  socket.emit('login', $('#username').val()+"|"+ $('#password').val() );
+};
+
 
 function cleanSnapshot(textbox){
  val =  textbox.getSnapshot();

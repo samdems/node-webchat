@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 298.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 408.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/A/xampp2/htdocs/bootstrap_masonry/style.css",
+		"/A/xampp2/htdocs/bootstrap_masonry/classie.js",
+		"/A/xampp2/htdocs/bootstrap_masonry/script.js",
+		"/A/xampp2/htdocs/bootstrap_masonry/index.html",
+		"/C/Users/sam/Documents/GitHub/node-webchat-master/GitHubSetup.exe",
+		"/C/Users/sam/Documents/GitHub/bootstrap_masonry/index.html",
+		"/C/Users/sam/Documents/GitHub/bootstrap_masonry/style.css",
+		"/C/Users/sam/Documents/GitHub/bootstrap_masonry/masonry.pkgd.min.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/server.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/assets/js/client.js",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/assets/css/style.css",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/package.json",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/index.html",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/index.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/.gitignore",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 2/Packages/User/node.sublime-build",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/users.txt",
+		"/C/Users/sam/Downloads/jquery-1.11.1.js",
+		"/C/Program Files (x86)/PCSX2 1.0.0/Plugins/DEV9ghzdrk.dll",
+		"/C/Users/sam/Documents/MumbleAutomaticCertificateBackup.p12",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/assets/style.css",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/node_modules/node-ckeditor/route.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/assets/ckeditor/config.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/login.html",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/assets/config.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/assets/ckeditor/styles.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/assets/ckeditor/build-config.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/test.html",
+		"/C/Users/sam/Documents/GitHub/noodjs-webchat/assets/ckeditor.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/samdems.vcf",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/advanced-chat-master/advanced-chat-master/public/css/app.css",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/advanced-chat-master/advanced-chat-master/public/index.html",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/advanced-chat-master/advanced-chat-master/room.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/advanced-chat-master/advanced-chat-master/public/js/client.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/advanced-chat-master/advanced-chat-master/server.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/advanced-chat-master/advanced-chat-master/README.md",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/nodejs-private-webchat/package.json",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/nodejs-private-webchat/app.js",
+		"/C/Users/sam/AppData/Local/Temp/Rar$DRa0.178/routes.js",
+		"/C/Users/sam/AppData/Local/Temp/Rar$DRa0.178/package.json",
+		"/C/Users/sam/AppData/Local/Temp/Rar$DRa0.178/app.js",
+		"/C/Users/sam/AppData/Local/Temp/Rar$DRa0.178/config.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/chat/node.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/run.js",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/404.html",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/test.html",
+		"/C/Users/sam/Documents/GitHub/noodjs-webplayer/index.html",
+		"/C/Users/sam/Videos/films/About Time 2013 720p BRRip x264 AC3-JYK.mkv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item",
+			"$",
+			"editer",
+			"#m",
+			"config.skin ",
+			"side",
+			"avatar",
+			"The owner",
+			"you have",
+			"col",
+			"ty"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"item well ",
+			"msg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.867271228359,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true
+}
